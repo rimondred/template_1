@@ -1,0 +1,12 @@
+/* how to write css*/
+
+/* how to write code css*/
+
+div {
+  background-color: red; 
+  background-image: url(../images/web.jpeg);
+  height: 500px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  
+}
